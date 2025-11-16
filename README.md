@@ -1,2 +1,5 @@
-# dqw
-Tools for Dragon Quest Walk
+# Tools for Dragon Quest Walk
+ドラクエウォークでちょっとした計算とか調査に必要なときに利用できるツール集
+
+## パーティ行動順
+パーティの行動順を確認できるツール。
